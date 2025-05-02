@@ -1,4 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SaaS Landing Page
+
+A modern, responsive, and developer-friendly landing page template for SaaS products, built with **Next.js 14**, **Tailwind CSS**, and **TypeScript**. This project provides a clean, customizable foundation for showcasing your software-as-a-service offering.
+
+---
+
+## 🚀 Features
+
+- ⚡ **Performance-Optimized**: Built with Next.js 14 for fast load times and seamless routing.
+- 🎨 **Tailwind CSS Styling**: Utility-first CSS framework for rapid UI development.
+- 📱 **Responsive Design**: Mobile-first approach ensures a seamless experience across devices.
+- 🛠️ **Developer Tools**: Integrated with ESLint, Prettier, and TypeScript for code quality and maintainability.
+- 🧩 **Modular Architecture**: Organized file structure for easy customization and scalability.
+
+---
+
+## 🛠️ Tech Stack
+
+- [Next.js 14](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+---
+
+## 📂 Project Structure
+
+```bash
+SaaS-Landing-Page/
+├── .vscode/             # VSCode settings
+├── public/              # Static assets
+├── src/                 # Source code
+│   ├── app/             # Next.js app directory
+│   │   └── page.tsx     # Main landing page
+│   └── components/      # Reusable UI components
+├── .eslintrc.json       # ESLint configuration
+├── .prettierrc          # Prettier configuration
+├── next.config.mjs      # Next.js configuration
+├── package.json         # Project metadata and scripts
+├── tailwind.config.ts   # Tailwind CSS configuration
+├── tsconfig.json        # TypeScript configuration
+└── README.md            # Project documentation
+
 
 ## Getting Started
 
